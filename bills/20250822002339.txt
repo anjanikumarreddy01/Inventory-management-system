@@ -1,0 +1,17 @@
+		Inventory Management System
+
+ Bill Number: 20250822002339
+ Customer Name: sai ram
+ Phone No. : 9937384938
+ Date: 22/08/2025
+========================================
+ Product			QTY	Price
+========================================
+ TV			3	Rs.50000.00
+========================================
+ Bill Amount:				Rs.150000.00
+ Discount:				Rs.7500.00
+ Net Pay:				Rs.142500.00
+========================================
+
+	Scan for Details

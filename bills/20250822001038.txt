@@ -1,0 +1,16 @@
+		Inventory Management System
+
+ Bill Number: 20250822001038
+ Customer Name: ragav
+ Phone No. : 8779335748
+ Date: 22/08/2025
+========================================
+ Product			QTY	Price
+========================================
+ AC			1	Rs.37000.00
+ remote			2	Rs.5000.00
+========================================
+ Bill Amount:				Rs.47000.00
+ Discount:				Rs.2350.00
+ Net Pay:				Rs.44650.00
+========================================

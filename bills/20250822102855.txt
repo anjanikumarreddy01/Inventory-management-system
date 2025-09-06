@@ -1,0 +1,19 @@
+		Inventory Management System
+
+ Bill Number: 20250822102855
+ Customer Name: sai kiran
+ Phone No. : 7839393043
+ Date: 22/08/2025
+========================================
+ Product			QTY	Price
+========================================
+ TV			1	Rs.50000.00
+ Mobile			1	Rs.30000.00
+ TABLE			1	Rs.5000.00
+========================================
+ Bill Amount:				Rs.85000.00
+ Discount:				Rs.200.00
+ Tax (6.5%):				Rs.5512.00
+ Net Pay:				Rs.90312.00
+========================================
+	Scan for Details

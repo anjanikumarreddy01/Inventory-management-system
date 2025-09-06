@@ -1,0 +1,17 @@
+		Inventory Management System
+
+ Bill Number: 20250821233412
+ Customer Name: anjani
+ Phone No. : 9550505555
+ Date: 21/08/2025
+========================================
+ Product			QTY	Price
+========================================
+ Mobile			1	Rs.30000.00
+ TABLE			1	Rs.5000.00
+ remote			1	Rs.5000.00
+========================================
+ Bill Amount:				Rs.40000.00
+ Discount:				Rs.2000.00
+ Net Pay:				Rs.38000.00
+========================================

@@ -1,0 +1,17 @@
+		Inventory Management System
+
+ Bill Number: 20250822072719
+ Customer Name: kiran
+ Phone No. : 7884937910
+ Date: 22/08/2025
+========================================
+ Product			QTY	Price
+========================================
+ TABLE			1	Rs.5000.00
+ remote			1	Rs.5000.00
+========================================
+ Bill Amount:				Rs.10000.00
+ Discount:				Rs.550.00
+ Net Pay:				Rs.9450.00
+========================================
+	Scan for Details

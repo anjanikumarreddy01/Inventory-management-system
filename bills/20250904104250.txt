@@ -1,0 +1,17 @@
+      Inventory Management System
+
+ Bill Number: 20250904104250
+ Customer Name: challa
+ Phone No. : 9383934849
+ Date: 04/09/2025
+=====================================
+ Product		QTY	Price
+=====================================
+ TV		2	Rs.50000.00
+=====================================
+ Bill Amount:		Rs.100000.00
+ Discount:		Rs.0.00
+ Tax (4.0%):		Rs.4000.00
+ Net Pay:		Rs.104000.00
+=====================================
+	Scan for Details

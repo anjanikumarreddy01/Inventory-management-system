@@ -1,0 +1,18 @@
+		Inventory Management System
+
+ Bill Number: 20250822110247
+ Customer Name: reddy
+ Phone No. : 9888777789
+ Date: 22/08/2025
+========================================
+ Product			QTY	Price
+========================================
+ TABLE			1	Rs.5000.00
+ Mobile			1	Rs.30000.00
+========================================
+ Bill Amount:				Rs.35000.00
+ Discount:				Rs.200.00
+ Tax (6.5%):				Rs.2262.00
+ Net Pay:				Rs.37062.00
+========================================
+	Scan for Details

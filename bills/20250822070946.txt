@@ -1,0 +1,18 @@
+		Inventory Management System
+
+ Bill Number: 20250822070946
+ Customer Name: charan
+ Phone No. : 9454277754
+ Date: 22/08/2025
+========================================
+ Product			QTY	Price
+========================================
+ remote			1	Rs.5000.00
+ AC			1	Rs.37000.00
+========================================
+ Bill Amount:				Rs.42000.00
+ Discount:				Rs.2100.00
+ Net Pay:				Rs.39900.00
+========================================
+
+	Scan for Details

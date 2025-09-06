@@ -1,0 +1,17 @@
+		Inventory Management System
+
+ Bill Number: 20250822001742
+ Customer Name: sashi
+ Phone No. : 9945683455
+ Date: 22/08/2025
+========================================
+ Product			QTY	Price
+========================================
+ Mobile			2	Rs.30000.00
+========================================
+ Bill Amount:				Rs.60000.00
+ Discount:				Rs.3000.00
+ Net Pay:				Rs.57000.00
+========================================
+
+	Scan for Details

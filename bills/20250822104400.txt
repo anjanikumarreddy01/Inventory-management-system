@@ -1,0 +1,17 @@
+		Inventory Management System
+
+ Bill Number: 20250822104400
+ Customer Name: ravi
+ Phone No. : 8766783838
+ Date: 22/08/2025
+========================================
+ Product			QTY	Price
+========================================
+ TABLE			1	Rs.5000.00
+========================================
+ Bill Amount:				Rs.5000.00
+ Discount:				Rs.200.00
+ Tax (6.5%):				Rs.312.00
+ Net Pay:				Rs.5112.00
+========================================
+	Scan for Details

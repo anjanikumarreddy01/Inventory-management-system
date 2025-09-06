@@ -1,0 +1,17 @@
+		Inventory Management System
+
+ Bill Number: 20250822215653
+ Customer Name: hema
+ Phone No. : 9988876353
+ Date: 22/08/2025
+=====================================
+ Product			QTY	Price
+=====================================
+ TV			1	Rs.50000.00
+=====================================
+ Bill Amount:				Rs.50000.00
+ Discount:				Rs.0.00
+ Tax (4.0%):				Rs.2000.00
+ Net Pay:				Rs.52000.00
+=====================================
+	Scan for Details
